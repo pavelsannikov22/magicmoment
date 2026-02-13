@@ -11,11 +11,11 @@ export const config = {
 		rightHeart: `${assets}/Assets/Hearts/heart_3d.gif`,
 	},
 	noPage: {
-		message: 'Ответ Нет не принимается 😁',
+		message: 'Подумай ещё раз 😁',
 		image: `${assets}/Assets/No_picture/kermit-shooting.gif`,
 	},
 	yesPage: {
-		message: "Увидимся в Супре Романи в 22:00 😊",
+		message: "Увидимся в баре DAB вечером 🍔😊",
 		image: `${assets}/Assets/Yes_picture/Yes.gif`,
 	},
 };
